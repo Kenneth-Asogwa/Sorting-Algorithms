@@ -1,2 +1,2 @@
 # Sorting-Algorithms
-These are algorithms that puts and rearranges elements of a list into an order.
+This is where some changes to the codes will be captured for easy readability
